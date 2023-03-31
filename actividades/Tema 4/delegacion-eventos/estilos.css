@@ -1,0 +1,12 @@
+/* li:hover {
+    color: black;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+} */
+span:hover {
+    color: black;
+    font-size: 18px;
+    text-decoration: underline;
+    cursor: pointer;
+}
