@@ -1,5 +1,5 @@
-imagenGrande = document.getElementById("largeImg");
-listaImagenes = document.getElementById("thumbs");
+const imagenGrande = document.getElementById("largeImg");
+const listaImagenes = document.getElementById("thumbs");
 
 listaImagenes.addEventListener("click", e =>{
 
